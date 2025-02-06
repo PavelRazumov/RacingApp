@@ -159,3 +159,6 @@ vendor/
 
 # [Experimental] Generated TS type definitions
 /packages/react-native/types_generated/
+/android/app/.cxx/
+/android/app/build/intermediates/
+/android/app/build/outputs/
